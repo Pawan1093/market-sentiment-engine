@@ -1,0 +1,2 @@
+ticker,company,sentiment_score,mentions,price_anomaly,price_change,alert_type,action
+NIFTY,Nifty 50,1.0,1,75.3,-2.17,CONFIRMATION,BUY SIGNAL 🟢

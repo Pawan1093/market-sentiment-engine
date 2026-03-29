@@ -1,0 +1,2 @@
+tickers,company,total_mentions,bullish_count,bearish_count,neutral_count,avg_confidence,avg_bullish,avg_bearish,sentiment_score
+NIFTY,Nifty 50,1,1,0,0,0.9488,0.9488,0.0189,1.0
