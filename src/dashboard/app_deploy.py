@@ -21,8 +21,8 @@ def load_data():
 
 sentiment_df, ticker_df, alerts_df, prices_df, anomalies_df = load_data()
 
-st.title("🇮🇳 Indian Market Sentiment & Anomaly Detection Engine")
-st.markdown("*Real-time NLP analysis · FinBERT Transformer · Isolation Forest Anomaly Detection*")
+st.title("Indian Market Sentiment & Anomaly Detection Engine")
+
 st.divider()
 
 # ── KPI Cards ───────────────────────────────────────────────
